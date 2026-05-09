@@ -1,6 +1,10 @@
 # SolarScope — PV Calculator
 
-A single-page solar energy calculator built with pure HTML, CSS, and JavaScript. No build step or backend required — open  in any browser.
+A single-page solar energy calculator built with pure HTML, CSS, and JavaScript. No build step or backend required.
+
+## Live Demo
+
+[solarscope-mxp4.onrender.com](https://solarscope-mxp4.onrender.com/)
 
 ## Features
 
